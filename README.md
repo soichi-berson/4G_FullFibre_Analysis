@@ -1,4 +1,4 @@
-# 4G AND Full Fibre Analysis
+# 4G and Full Fibre Analysis
 
 
 ## Executive Summary
